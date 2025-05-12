@@ -1,5 +1,4 @@
 # dlt-pipeline-kit
-# dlt-pipeline-kit
 
 ## Overview
 
